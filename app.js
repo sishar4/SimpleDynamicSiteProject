@@ -10,6 +10,10 @@ http.createServer(function(request, response) {
 }).listen(3000);
 console.log('Server running at http:<workspace-url>/');
 
-//Function that handles the reading of files and merge in values
-	//read from file and get a string
-		//merge values in to string
+
+
+
+
+
+
+
